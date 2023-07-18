@@ -1,4 +1,4 @@
-# Chiedere all'utente informazioni personali , pubblico il risultato finale sulla pagina
+# Chiedere all'utente informazioni personali , pubblico il risultato (somma)finale sulla pagina
 
 - chiedo all'utente il suo nome
 - chiedo all'utente il suo cognome
