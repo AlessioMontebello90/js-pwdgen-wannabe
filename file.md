@@ -10,5 +10,5 @@ Chiedere all'utente informazioni personali , pubblico il risultato (somma)finale
 ## ESECUZIONE
 
 Raccolgo le informazioni dell'utente all'interno dei vari prompt
-Inserisco ogni valore all'interno di una variabile
+Inserisco ogni valore all'interno di una variabile.
 Stampo sulla pagina la concatenazione delle mie variabili in un paragrafo
